@@ -15,7 +15,7 @@ func swap(x, y string) (string, string) {
 
 var f, k, j bool
 
-func mains() {
+func main() {
 
 	hola, ja, sapo := "ahol", true, 2
 	fmt.Println("hola mundo")
